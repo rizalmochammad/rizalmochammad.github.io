@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "..\\kaoskaki"
+		},
+		{
+			"path": "..\\regislogin"
+		},
+		{
+			"path": "..\\phpmvc"
+		},
+		{
+			"path": "..\\css"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
